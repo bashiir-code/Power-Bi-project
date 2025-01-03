@@ -11,6 +11,7 @@ The  Dashboard is a comprehensive HR analytics solution developed with Power BI.
 Key Metrics Displayed:
 
 Total Salary: $362M
+
 ![Screenshot 2025-01-02 233150](https://github.com/user-attachments/assets/0e2c46db-f507-4936-8daa-075e90205d8b)
 
 Net Hiring: 18
@@ -22,6 +23,7 @@ Total Employees: 4,000
 ![Screenshot 2025-01-02 233246](https://github.com/user-attachments/assets/f30eb7f8-f8f6-45bf-b8f6-73611d9807cc)
 
 Total Bonus Distributed: $20M
+
 ![image](https://github.com/user-attachments/assets/af93cf91-8fba-44e0-aeb2-8062a6fa0826)
 
 Features:
@@ -29,27 +31,33 @@ Features:
 Unified Data Source: Simplifies analytics by using one consolidated table.
 
 Interactive Filters: Gender, department, and year slicers for targeted insights.
+
 ![image](https://github.com/user-attachments/assets/6d3bec19-c7da-414e-b907-f79b40438e2a)
+
 
 ![image](https://github.com/user-attachments/assets/d8ecfd2d-d500-40ce-ab29-c948831b56f5)
 
 
 
 Hiring & Attrition Trends: Year-over-year workforce dynamics.
+
 ![image](https://github.com/user-attachments/assets/e3f41ac9-112b-4b00-93d0-9498227d0c48)
 
 
 Turnover Risk Analysis: Visualized risk categories (Low, Medium, High).
+
 ![image](https://github.com/user-attachments/assets/f1c2ebf2-bb53-4f61-9e86-3be7610ae498)
 
 
 
 Employee Demographics: Gender, education, and age group breakdowns.
+
 ![image](https://github.com/user-attachments/assets/bf997791-4be4-4ba5-8ad4-e7c4dfdf9f65)
 
 
 
 Job Satisfaction Levels: Clear gauge visualization of overall satisfaction.
+
 ![image](https://github.com/user-attachments/assets/dd1ff8de-7cb2-4f7d-b3bb-66dd8a64bf8f)
 
 
