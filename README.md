@@ -95,9 +95,8 @@ Workforce growth driven by hiring outpacing attrition in recent years.
 
 Turnover Risk
 
-High-risk turnover peaked in 2022, signaling areas for intervention. The issue could link due to big attrition on that year
-
-Employee Satisfaction
+High-risk turnover peaked in 2022, signaling areas for intervention. 
+The issue could be linked to significant attrition during that year.
 
 Average satisfaction score: 2.99, indicating room for improvement in engagement.
 
